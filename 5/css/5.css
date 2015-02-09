@@ -1,0 +1,39 @@
+/*
+	* See Screenshot
+	* Style to match
+	* Add to existing styling
+*/
+
+body {
+	color: #333;
+	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+p {
+ 	line-height: 24px;
+}
+
+/*Container*/
+
+.container {
+	background: url("../img/bg.png");
+
+	margin: 0 auto;
+	width: 1000px;
+}
+
+section {
+	width: 250px;
+	float: left;
+}
+
+footer p {
+	width: 500px;
+	float: left;
+}
+
+.clearfix {
+	clear: both;
+}
+
+

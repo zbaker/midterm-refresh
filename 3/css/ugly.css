@@ -1,0 +1,16 @@
+html body {
+  background: thistle;
+}
+
+body aside {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.social {
+  text-decoration: line-through;
+}
+
+li #my-space {
+  font-size: 2em;
+  text-transform: uppercase;
+}
